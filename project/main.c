@@ -1,6 +1,1 @@
-#include<stdio.h>
-int main()
-{
-	printf("hello abc")
-	printf("good to see u")
-}
+this is an abc fil
